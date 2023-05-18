@@ -1,2 +1,2 @@
 # IFSI2D
-Incompressible Fluid Structure Interaction 3D code
+Incompressible Fluid Structure Interaction 2D code
